@@ -1,0 +1,45 @@
+/* Ajustes básicos */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header .logo {
+    max-width: 150px;
+}
+
+/* Carrusel */
+.carousel-item {
+    height: 200px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+}
+
+/* Secciones */
+section {
+    padding: 60px 0;
+}
+
+#productos .card {
+    margin-bottom: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 10px;
+}
